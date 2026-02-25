@@ -6,13 +6,7 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=MattMin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="33%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattMin&theme=radical&hide_border=true" alt="Streak" width="100%"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" width="100%"/>
       </td>
     </tr>
   </table>
